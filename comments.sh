@@ -4,7 +4,8 @@
 
 clear    # Clears the screen
 
-MYUSERNAME="Terry" # The username for this application
+# MYUSERNAME="Terry" # The username for this application
+MYUSERNAME="Don" # New username added later
 
 echo "We are using the default user called: $MYUSERNAME" # Display to console
 
