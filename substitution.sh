@@ -1,6 +1,7 @@
 #!/bin/bash
 # This script is intended to show how to do simple substitution
 
+shopt -s expand_aliases
 alias TODAY="date"
 alias UFILES="find /home -user user"
 
